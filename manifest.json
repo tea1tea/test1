@@ -1,13 +1,13 @@
 {
-　"short_name": "rose for Shirley",
-　"name": "rose",
-　"icons": [{
-　　"src":"icons/192.png",
-　　"sizes": "192×192",
-　　"type": "image/png"
-　　}],
-　"start_url": "http://tea1tea.github.io/test1/",
-　"background_color": "#000",
-　"theme_color": "#536878",
-　"display": "standalone"
+  "short_name": "rose for Shirley",
+  "name": "rose",
+  "icons": [{
+    "src":"icons/192.png",
+    "sizes": "192×192",
+    "type": "image/png"
+  }],
+  "start_url": "http://tea1tea.github.io/test1/",
+  "background_color": "#000",
+  "theme_color": "#536878",
+  "display": "standalone"
 }
