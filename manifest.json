@@ -6,7 +6,7 @@
     "sizes": "192×192",
     "type": "image/png"
   }],
-  "start_url": "http://tea1tea.github.io/test1/",
+  "start_url": "https://tea1tea.github.io/test1/",
   "background_color": "#000",
   "theme_color": "#536878",
   "display": "standalone"
